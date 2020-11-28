@@ -1,8 +1,10 @@
 h1 {
   text-align: center;
   font-size: xx-large;
-<<<<<<< HEAD
 } 
-=======
+
+img{
+  display: block;
+  margin: 0 auto;
+  width: 25%;
 }
->>>>>>> 4fe4e6fe695d6e75c7c4353631270b0ccdcc44f6
